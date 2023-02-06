@@ -1,0 +1,16 @@
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Flogging.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Serilog.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Flogging.pdb
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Serilog.xml
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\FloggingConsole.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\FloggingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\FloggingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\FloggingConsole.csproj.CopyComplete
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Meet  Kerasiya\source\repos\Flogging\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -5,9 +5,9 @@ namespace Flogging.Core
 {
     public class FlogDetail
     {
-        public FlogDetail() 
-        { 
-            Timestamp=DateTime.Now;
+        public FlogDetail()
+        {
+            Timestamp = DateTime.Now;
         }
         public DateTime Timestamp { get; private set; }
 
@@ -30,11 +30,11 @@ namespace Flogging.Core
 
         public long? ElapsedMilliseconds { get; set; }
         public Exception Exception { get; set; }
-            
+
         public string CorrelationId { get; set; }
 
         public Dictionary<string, object> AdditionalInfo { get; set; }
 
+
     }
-    
 }

@@ -48,6 +48,6 @@ namespace Flogging
             _sw.Stop();
             _infoToLog.ElapsedMilliseconds=_sw.ElapsedMilliseconds;
             Flogger.WritePerf(_infoToLog);
-        }
+        } 
     }
 }

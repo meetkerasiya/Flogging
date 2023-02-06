@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging", "Flogging\Flogging.csproj", "{7B45CFC6-CC36-4FA8-8CDC-19BB504C5D26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogging.Core", "Flogging\Flogging.Core.csproj", "{7B45CFC6-CC36-4FA8-8CDC-19BB504C5D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloggingConsole", "ConsoleApp1\FloggingConsole.csproj", "{98023C5C-9FFF-4C27-84B4-A409B5657057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7B45CFC6-CC36-4FA8-8CDC-19BB504C5D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B45CFC6-CC36-4FA8-8CDC-19BB504C5D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B45CFC6-CC36-4FA8-8CDC-19BB504C5D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98023C5C-9FFF-4C27-84B4-A409B5657057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98023C5C-9FFF-4C27-84B4-A409B5657057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98023C5C-9FFF-4C27-84B4-A409B5657057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98023C5C-9FFF-4C27-84B4-A409B5657057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Flogging.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Flogging.pdb
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Serilog.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Serilog.xml
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\obj\Debug\Flogging.Core.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\obj\Debug\Flogging.Core.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\obj\Debug\Flogging.Core.csproj.CopyComplete
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\obj\Debug\Flogging.dll
+C:\Users\Meet  Kerasiya\source\repos\Flogging\Flogging\obj\Debug\Flogging.pdb
